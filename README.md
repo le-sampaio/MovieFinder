@@ -13,4 +13,5 @@ também uma breve descrição sobre o filme. </p>
 
 <p>Preview do projeto:</p>
 <img src="img\movieFinder.png">
+<img src="img\detalhes.png">
 
