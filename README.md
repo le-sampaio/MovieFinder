@@ -11,5 +11,6 @@ também uma breve descrição sobre o filme. </p>
   <li>API TMDB</li>
 </ul>
 
-<p>Preview do projeto:  https://let-sampaio.github.io/movieFinder/</p>
+<p>Preview do projeto:</p>
+<img src="img\movieFinder.png">
 
