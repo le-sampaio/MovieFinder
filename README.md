@@ -11,7 +11,6 @@ também uma breve descrição sobre o filme. </p>
   <li>API TMDB</li>
 </ul>
 
-<p>Preview do projeto:</p>
-<img src="img\movieFinder.png">
-<img src="img\detalhes.png">
+<p>Preview do projeto: https://movie-finder-phi-nine.vercel.app/</p>
+
 
